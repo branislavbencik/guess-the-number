@@ -3,13 +3,13 @@
   padding: 0;
   border: 0;
   box-sizing: border-box;
+  font-family: Tomorrow, sans-serif;
+  font-weight: bold;
 }
 
 body {
   background-color: #1b1464;
   color: #1b1464;
-  font-family: Tomorrow, sans-serif;
-  font-weight: bold;
 }
 
 h1,
@@ -123,5 +123,6 @@ input {
 
 button {
   background-color: #00ffc4;
-  padding: 30px 120px;
+  padding: 25px 120px;
+  font-size: 32px;
 }
